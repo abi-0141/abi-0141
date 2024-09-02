@@ -1,9 +1,8 @@
 <h1 align="center">Hi 😉, I'm ABiManyu</h1>
 
-[![Spotify](https://vercel.com/abis-projects-7cac0b59/spotify-abi)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
+[![Spotify](https://vercel.com/abis-projects-7cac0b59/spotify-abi/4KW76urBkgNQhSxyg25EqzrxwJsy)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
 &nbsp;<div align="center">
-  [![Spotify](https://vercel.com/abis-projects-7cac0b59/spotify-abi?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
-</div>
+  
 
 &nbsp;<div align="center">
 </div>
