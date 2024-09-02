@@ -1,6 +1,6 @@
 <h1 align="center">Hi 😉, I'm ABiManyu</h1>
 
-
+[![Spotify](https://vercel.com/abis-projects-7cac0b59/spotify-abi)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi8020&label=Profile%20views&color=0e75b6&style=flat" alt="abi8020" /> </p>
 
 
