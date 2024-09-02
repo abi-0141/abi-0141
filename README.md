@@ -2,6 +2,8 @@
 
 #SPOTIFY🎧💓
 [![Spotify](https://spotify-lug5s8pjl-tejesh912.vercel.app/api/spotify)](https://open.spotify.com/user/31m3i7iwdxht26zfwwihuqrof4k4)
+
+[![Spotify](https://spotify-dyno-abis-projects-7cac0b59.vercel.app/api/spotify)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
 &nbsp;<div align="center">
   
 
