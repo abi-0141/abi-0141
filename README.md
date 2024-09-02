@@ -1,6 +1,7 @@
 <h1 align="center">Hi 😉, I'm ABiManyu</h1>
 
-[![Spotify](https://vercel.com/abis-projects-7cac0b59/spotify-abi/4KW76urBkgNQhSxyg25EqzrxwJsy)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
+#SPOTIFY🎧💓
+[![Spotify](https://spotify-4ceyqz7ey-abi8020.vercel.app/api/spotify)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
 &nbsp;<div align="center">
   
 
