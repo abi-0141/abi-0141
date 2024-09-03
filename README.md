@@ -2,14 +2,11 @@
 
 #SPOTIFY🎧💓
 
-[![Spotify](https://cgo53b4kv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
 
 [!Spotify](https://spotify-dyno-abis-projects-7cac0b59.vercel.app/api/spotify-dyno)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
 
-&nbsp;<div align="center">
-  
 
-&nbsp;<div align="center">
+
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi8020&label=Profile%20views&color=0e75b6&style=flat" alt="abi8020" /> </p>
 
@@ -27,7 +24,6 @@
 - 📫 How to reach me **abimanyu8020@gmail.com**
 
 - ⚡ Fun fact **:)**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
