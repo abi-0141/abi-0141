@@ -2,7 +2,8 @@
 
 #SPOTIFY🎧💓
 
-[![Spotify[(https://spotify-dyno-git-main-abis-projects-7cac0b59.vercel.app/)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
+[!Spotify](https://spotify-dyno-abis-projects-7cac0b59.vercel.app/api/spotify-dyno)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
+
 
 
 &nbsp;<div align="center">
