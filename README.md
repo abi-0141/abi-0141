@@ -2,10 +2,10 @@
 
 #SPOTIFY🎧💓
 
-&nbsp;<div align="center">
 
-https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mcngqxdswkc2thpafdmpz63bom&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mcngqxdswkc2thpafdmpz63bom&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)
-&nbsp;<div align="center">
+[(https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mcngqxdswkc2thpafdmpz63bom&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mcngqxdswkc2thpafdmpz63bom&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)]
+
+
 
 
 
