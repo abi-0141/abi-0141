@@ -4,7 +4,7 @@
 
 &nbsp;<div align="center">
 
-[![Spotify](https://cgo53b4kv.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31mcngqxdswkc2thpafdmpz63bom)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mcngqxdswkc2thpafdmpz63bom&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mcngqxdswkc2thpafdmpz63bom&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)]]
 &nbsp;<div align="center">
 
 
