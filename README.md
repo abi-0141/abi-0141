@@ -28,8 +28,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abi8020&show_icons=true&locale=en&layout=compact" alt="abi8020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abi8020&show_icons=true&locale=en" alt="abi8020" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abi8020&" alt="abi8020" /></p>
